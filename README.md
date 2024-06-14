@@ -1,25 +1,54 @@
-<img src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif">
-<h1 align="center">Hi 👋, I'm Jhondale Arandia</h1>
-<h3 align="center">A Computer Science student at Laguna State Polytechnic University.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mindkerchief&label=Profile%20views&color=0e75b6&style=flat" alt="mindkerchief" /> </p>
-
-- 🌱 I’m currently learning **machine learning**
-
-- 📫 You can reach me at **jhondalellaguno@gmail.com**
-
-- ⚡ Fun fact, **I sometimes dream about my coding problems**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jhondalellaguno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhondalellaguno" height="30" width="40" /></a>
-<a href="https://fb.com/jhondalellaguno.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jhondalellaguno.official" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mindkerchief" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mindkerchief" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mindkerchief&show_icons=true&locale=en&layout=compact" alt="mindkerchief" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mindkerchief&" alt="mindkerchief" /></p>
+<div>
+  <article class="markdown-body entry-content container-lg f5" itemprop="text">
+    <div class="markdown-heading" dir="auto">
+      <h2 class="heading-element" dir="auto">Hey there! Welcome to my profile! 🤓</h2>
+    </div>
+    <a href="https://github.com/Mindkerchief">
+      <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=mindkerchief&amp;theme=react&amp;layout=compact&amp;langs_count=8" style="max-width: 100%;"/>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindkerchief&amp;theme=react&amp;layout=compact&amp;langs_count=8" style="max-width: 100%;">
+    </a>
+    <div dir="auto"><br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" align="center" height="45" width="60" style="max-width: 100%;"/>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" align="center" height="45" width="60" style="max-width: 100%;"/>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" align="center" height="45" width="60" style="max-width: 100%;"/>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" align="center" height="50" width="60" style="max-width: 100%;"/>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" align="center" height="45" width="60" style="max-width: 100%;"/>  
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" align="center" height="45" width="60" style="max-width: 100%;"/>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" align="center" height="35" width="50" style="max-width: 100%;"/>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" align="center" height="45" width="60" style="max-width: 100%;"/>
+    </div>
+    <div class="markdown-heading" dir="auto">
+      <h2 class="heading-element" dir="auto">About Me:</h2>
+    </div>
+    <ul dir="auto">
+      <li>👨‍🎓 Currently studying Computer Science at Laguna State Polytechnic University</li>
+      <li>🐍 Python is my new favorite programming language</li>
+      <li>📫 Contact me at jhondalellaguno@gmail.com</li>
+      <li>⚡ Fun fact, I sometimes dream about my coding problems</li>
+    </ul>
+    <div class="markdown-heading" dir="auto">
+      <h2 class="heading-element" dir="auto">Connect With Me:</h2>
+    </div>
+    <div dir="auto">
+      <a href="https://www.facebook.com/jhondalellaguno.official" rel="nofollow">
+        <img src="https://img.shields.io/badge/Facebook-3B5999?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" style="max-width: 100%;">
+      </a>
+      <a href="https://www.linkedin.com/in/jhondalellaguno/" rel="nofollow">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+      </a>
+      <a href="mailto:jhondalellaguno@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
+      </a>
+      <a href="https://www.youtube.com/channel/@Mindkerchief" rel="nofollow">
+        <img src="https://img.shields.io/badge/YouTube-EB4924?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" style="max-width: 100%;">
+      </a> 
+    </div>
+  </article>
+</div>
