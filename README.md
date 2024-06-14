@@ -4,7 +4,8 @@
       <h2 class="heading-element" dir="auto">Hey there! Welcome to my profile! 🤓</h2>
     </div>
     <a href="https://github.com/Mindkerchief">
-      <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=mindkerchief&amp;theme=react&amp;layout=compact&amp;langs_count=8" style="max-width: 100%;"/>
+<!--  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=mindkerchief&amp;theme=react&amp;layout=compact&amp;langs_count=8" style="max-width: 100%;"/> -->
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mindkerchief&amp;theme=react&amp;layout=compact" style="max-width: 100%;">
       <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindkerchief&amp;theme=react&amp;layout=compact&amp;langs_count=8" style="max-width: 100%;">
     </a>
     <div dir="auto"><br>
