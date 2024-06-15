@@ -38,7 +38,7 @@
   <a href="mailto:jhondalellaguno@gmail.com" target="_blank" rel="nofollow">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white">
   </a>
-  <a href="https://www.youtube.com/channel/@Mindkerchief" target="_blank" rel="nofollow">
+  <a href="https://www.youtube.com/@Mindkerchief" target="_blank" rel="nofollow">
     <img src="https://img.shields.io/badge/YouTube-EB4924?style=for-the-badge&amp;logo=youtube&amp;logoColor=white">
   </a>
 </div>
