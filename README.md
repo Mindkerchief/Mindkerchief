@@ -1,4 +1,5 @@
-## Hey there! Welcome to my profile! 🤓
+## Hey there! Welcome to my profile! 🗂️
+
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=mindkerchief&amp;theme=react&amp;layout=compact" height="200em">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindkerchief&amp;theme=react&amp;layout=compact&amp;langs_count=8" height="200em">
@@ -23,22 +24,12 @@
 </div>
 
 ## About Me:
-* 👨‍🎓 Currently studying Computer Science at Laguna State Polytechnic University
-* 🐍 Python is my new favorite programming language
-* ⚡ Fun fact, I sometimes dream about my coding problems
+* 👨‍🎓 Currently studying Computer Science at Laguna State Polytechnic University.
+* 🐍 Python and Java is my favorite programming language.
+* ⚡ Fun fact, I'm a perfectionist.
 
 ## Contact Me:
-<div>
-  <a href="https://www.facebook.com/jhondalellaguno.official" target="_blank" rel="nofollow">
-    <img src="https://img.shields.io/badge/Facebook-3B5999?style=for-the-badge&amp;logo=facebook&amp;logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/jhondalellaguno/" target="_blank" rel="nofollow">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white">
-  </a>
-  <a href="mailto:jhondalellaguno@gmail.com" target="_blank" rel="nofollow">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white">
-  </a>
-  <a href="https://www.youtube.com/@Mindkerchief" target="_blank" rel="nofollow">
-    <img src="https://img.shields.io/badge/YouTube-EB4924?style=for-the-badge&amp;logo=youtube&amp;logoColor=white">
-  </a>
-</div>
+<a href="https://www.facebook.com/jhondalellaguno.official" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/Facebook-3B5999?style=for-the-badge&amp;logo=facebook&amp;logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jhondalellaguno/" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
+<a href="mailto:jhondalellaguno@gmail.com" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
+<a href="https://www.youtube.com/@Mindkerchief" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/YouTube-EB4924?style=for-the-badge&amp;logo=youtube&amp;logoColor=white"/></a>
