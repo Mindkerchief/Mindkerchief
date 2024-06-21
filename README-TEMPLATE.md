@@ -1,24 +1,46 @@
-# ![your-logo-here](https://github.com/Mindkerchief/Mindkerchief/assets/130748576/431ecc4f-8d58-457e-b894-657fbe26f1a9) Name Here
-Description Here
+# ![logo](https://github.com/Mindkerchief/Mindkerchief/assets/130748576/b271fe41-f935-4bf3-93c6-ca70e5a08aa5) Name <a><img src="https://img.shields.io/badge/Environment-Type-FFFFFF"/></a>
+
+A blank application that can...
 
 ## Table of Contents
-- [Installation](#installation)
 - [Features](#features)
+- [Usage](#usage)
+- [Installation](#installation)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## Installation
-### Steps
-1. Download the latest release
-2. Install
-3. Open
+1. Download the [latest release](https://github.com/Mindkerchief/Mindkerchief/releases).
+2. Install.
+3. Open.
 
 ## Features
-Screenshot Here
+### Main Features
+<div>
+  <img src="https://github.com/Mindkerchief/Mindkerchief/assets/130748576/60d71b13-d546-4e4f-aa31-d334a225123b" alt="screenshot-landscape">
+</div>
+&nbsp;
+
 - **Feature Name** - Feature Description.
 
+### Additionl Features
+
+<div>
+  <img src="https://github.com/Mindkerchief/Mindkerchief/assets/130748576/e3cbd746-342e-4a4c-9ee7-7450e672f6c2" alt="screenshot-portrait">
+</div>
+&nbsp;
+
+- **Feature Name** - Feature Description.
+## Usage
+
+### Basic Operations
+1. Instruction...
+
+### Tools
+- Explanation...
+
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Unlicense License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-- **[Technology Name](https://)**: Technology Description.
+- **[Visual Studio Code](https://code.visualstudio.com/docs)**: As development environment.
