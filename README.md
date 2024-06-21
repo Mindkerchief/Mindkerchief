@@ -29,7 +29,7 @@
 * ⚡ Fun fact, I'm a perfectionist.
 
 ## Contact Me:
-<a href="https://www.facebook.com/jhondalellaguno.official" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/Facebook-3B5999?style=for-the-badge&amp;logo=facebook&amp;logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/jhondalellaguno/" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
-<a href="mailto:jhondalellaguno@gmail.com" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
-<a href="https://www.youtube.com/@Mindkerchief" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/YouTube-EB4924?style=for-the-badge&amp;logo=youtube&amp;logoColor=white"/></a>
+[![facebook-profile](https://img.shields.io/badge/Facebook-3B5999?style=for-the-badge&amp;logo=facebook&amp;logoColor=white)](https://www.facebook.com/jhondalellaguno.official)
+[![linkedin-profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/jhondalellaguno)
+[![gmail-email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:jhondalellaguno@gmail.com)
+[![youtube-channel](https://img.shields.io/badge/YouTube-EB4924?style=for-the-badge&amp;logo=youtube&amp;logoColor=white)](https://www.youtube.com/@Mindkerchief)
