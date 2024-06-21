@@ -9,11 +9,6 @@ A blank application that can...
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
-## Installation
-1. Download the [latest release](https://github.com/Mindkerchief/Mindkerchief/releases).
-2. Install.
-3. Open.
-
 ## Features
 ### Main Features
 <div>
@@ -38,6 +33,11 @@ A blank application that can...
 
 ### Tools
 - Explanation...
+
+## Installation
+1. Download the [latest release](https://github.com/Mindkerchief/Mindkerchief/releases).
+2. Install.
+3. Open.
 
 ## License
 This project is licensed under the Unlicense License - see the [LICENSE](LICENSE) file for details.
