@@ -1,8 +1,8 @@
 ## Hey there! Welcome to my profile! 🗂️
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=mindkerchief&amp;theme=react&amp;layout=compact" height="190em">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindkerchief&amp;theme=react&amp;layout=compact&amp;langs_count=8" height="190em">
+  <img src="https://github-readme-stats.vercel.app/api?username=mindkerchief&amp;theme=react&amp;layout=compact" height="180em">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindkerchief&amp;theme=react&amp;layout=compact&amp;langs_count=8" height="180em">
 </div>
 
 <div>
